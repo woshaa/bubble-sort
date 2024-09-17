@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.vcxproj.*
+*.vcxproj
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.pdb
+*.obj
+*.log
+*.tmp
